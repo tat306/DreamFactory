@@ -3,17 +3,17 @@
 - title: About
   url: /about/
 
-- title: Articles
-  url: /articles/
+- title: TimeLine
+  url: /timeline/
 
-- title: Blog
-  url: /blog/
+- title: Development
+  url: /development/
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: ShowCase
+  url: /showcace/
 
-- title: Made Mistakes
-  url: http://mademistakes.com
+- title: tat306
+  url: http://tat306.github.io
 
 - title: Search
   url: /search/
