@@ -9,14 +9,13 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+This project is created by [**tat306**](http://tat306.github.io) .
 
-## So Simple Theme is all about:
+## Dream Factory is all about:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
+* Intaractive Installation and Performanced Digital Art.
+* 
+
 * [Custom 404 page]({{ site.url }}/404.html) to get you started.
 * [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
 * Support for Disqus Comments
