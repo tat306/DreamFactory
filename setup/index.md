@@ -4,8 +4,8 @@ title: setup
 excerpt: "Schedule for this project."
 search_omit: true
 image:
-  feature: p_t_index_feature.png
-  credit: DreamFactory-Timeline
+  feature: p_se_index_feature.png
+  credit: DreamFactory-Setup
   creditlink: http://tat306.github.io/DreamFactory/setup
 ---
 

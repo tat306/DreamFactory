@@ -4,8 +4,8 @@ title: story
 excerpt: "Schedule for this project."
 search_omit: true
 image:
-  feature: p_t_index_feature.png
-  credit: DreamFactory-Timeline
+  feature: p_st_index_feature.png
+  credit: DreamFactory-Story
   creditlink: http://tat306.github.io/DreamFactory/story
 ---
 
