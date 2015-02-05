@@ -3,6 +3,10 @@ layout: page
 title: development
 excerpt: "Progression of this project"
 search_omit: true
+image:
+  feature: p_d_index_feature.png
+  credit: DreamFactory-Development
+  creditlink: http://tat306.github.io/DreamFactory/development
 ---
 
 <ul class="post-list">
