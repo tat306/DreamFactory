@@ -16,9 +16,9 @@ This project is created by [**tat306**](http://tat306.github.io) .
 * Intaractive Installation and Performanced Digital Art.
 * 
 
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
+* 
+* 
+* 
 
 <a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
 
