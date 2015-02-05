@@ -13,7 +13,9 @@ image:
 ## Dream Factory is all about:
 
 * * *  
-  **Member**
+
+  **Member**  
+  
   * This project is created by [**tat306**](http://tat306.github.io/about) .
 
   * Committee: [**Michael Murphy**](http://www.umt.edu/mediaarts/index.php/faculty/michael-murphy), [**HeeJoo Gwen Kim**](http://www.umt.edu/mediaarts/index.php/faculty/heejoo-gwen-kim), [**Simon Hutchinson**](http://simonhutchinson.com/biography/).
