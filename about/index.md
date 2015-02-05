@@ -40,12 +40,12 @@ image:
 
   **Story**
 
- * Go to [***Story*](http://tat306.github.io/DreamFactory/story).
+ * Go to [**Story**](http://tat306.github.io/DreamFactory/story).
 .
 
 * * *
 
   **Setup**
 
- * Go to [***Setup*](http://tat306.github.io/DreamFactory/setup).
+ * Go to [**Setup**](http://tat306.github.io/DreamFactory/setup).
 .
