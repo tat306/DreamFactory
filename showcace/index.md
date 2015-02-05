@@ -4,9 +4,9 @@ title: showcace
 excerpt: "Instructions on how to install and customize the Jekyll theme So Simple."
 modified: 2014-08-08T20:04:41.231140-04:00
 image:
-  feature: so-simple-sample-image-6.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: p_s_index_feature.png
+  credit: DreamFactory-Showcase
+  creditlink: http://tat306.github.io/DreamFactory/showcase
 ---
 
 General notes and suggestions for customizing **So Simple Theme**.
