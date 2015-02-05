@@ -4,9 +4,9 @@ title: Dream Factory
 excerpt: "The concept of this project."
 modified: 2015-01-29T19:44:38.564948-04:00
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: p_a_index_feature.png
+  credit: DreamFactory-About
+  creditlink: http://tat306.github.io/DreamFactory/about
 ---
 
 This project is created by [**tat306**](http://tat306.github.io) .
