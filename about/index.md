@@ -36,6 +36,16 @@ image:
  * Visualize a process of "Dream" when people get to sleep.
 .
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
+* * *
 
-[^1]: Example: *domain.com/category-name/post-title*
+  **Story**
+
+ * Go to [***Story*](http://tat306.github.io/DreamFactory/story).
+.
+
+* * *
+
+  **Setup**
+
+ * Go to [***Setup*](http://tat306.github.io/DreamFactory/setup).
+.
