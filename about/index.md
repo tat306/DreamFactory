@@ -18,17 +18,23 @@ image:
 
   * This project is created by [**Tatsuya Ishii**](http://tat306.github.io/about) .
 
-  * Committee: [**Michael Murphy**](http://www.umt.edu/mediaarts/index.php/faculty/michael-murphy), [**HeeJoo Gwen Kim**](http://www.umt.edu/mediaarts/index.php/faculty/heejoo-gwen-kim), [**Simon Hutchinson**](http://simonhutchinson.com/biography/).
+  * Committee: [**Michael Murphy**](http://www.umt.edu/mediaarts/index.php/faculty/michael-murphy), [**HeeJoo Gwen Kim**](http://www.umt.edu/mediaarts/index.php/faculty/heejoo-gwen-kim), [**Simon Hutchinson**](http://www.umt.edu/music/people/default.php?ID=2989).
 .
 
 * * *
 
- * Intaractive Installation and Performanced Digital Art.
- * 
+  **Style**
 
- * 
- * 
- * 
+ * Performanced Installation and Intaractive Digital Art.
+ * Using Hologram Projection Mapping, Sensor based Sound Controlling.
+.
+
+* * *
+
+  **Concept**
+
+ * Visualize a process of "Dream" when people get to sleep.
+.
 
 <a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
 
