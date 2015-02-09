@@ -10,11 +10,11 @@ image:
 date: 2015-02-09T05:52:18-07:00
 ---
 
-
+**Sample Pictures and Idea Sketches**
 
 * * *
 
-  **Stage**
+  **StageProps**
 
  * Image for pile of Analog TV.
 
@@ -25,7 +25,7 @@ date: 2015-02-09T05:52:18-07:00
 </figure>
   
 
- * Image for Bed and Wheel chair.
+ * Image for Bed and WheelChair.
 
 <figure class="third">
 	<a href="https://farm8.staticflickr.com/7336/16297438550_3a8445571f_c.jpg"><img src="https://farm8.staticflickr.com/7336/16297438550_3a8445571f_c.jpg" alt="Bed1"></a>
