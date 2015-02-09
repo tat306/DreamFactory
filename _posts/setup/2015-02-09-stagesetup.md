@@ -18,7 +18,7 @@ date: 2015-02-09T05:52:18-07:00
 
 
 <figure class="half">
-	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg" alt="image"></a>
+	<a href="https://farm8.staticflickr.com/7395/16482854292_afe1a83291_b.jpg"><img src="https://farm8.staticflickr.com/7395/16482854292_afe1a83291_b.jpg" alt="image"></a>
 	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg" alt="image"></a>
 	<img src="http://placehold.it/600x300.jpg" alt="image">
 	<img src="http://placehold.it/600x300.jpg" alt="image">
@@ -26,7 +26,7 @@ date: 2015-02-09T05:52:18-07:00
 </figure>
 
 <figure>
-	<a href="https://farm8.staticflickr.com/7395/16482854292_afe1a83291_s.jpg"><img src="https://farm8.staticflickr.com/7395/16482854292_afe1a83291_s.jpg" alt="image"></a>
+	<a href="https://farm8.staticflickr.com/7395/16482854292_afe1a83291_b.jpg"><img src="https://farm8.staticflickr.com/7395/16482854292_afe1a83291_s.jpg" alt="image"></a>
 	<figcaption><a href="https://www.flickr.com/photos/129552486@N08/16482854292/" title="pos_sample_analogTVpile by Tatsuya Ishii, on Flickr">Sample "Pile of AnalogTV"</a>.</figcaption>
 </figure>
 
