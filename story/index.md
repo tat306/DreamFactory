@@ -1,7 +1,7 @@
 ---
 layout: page
 title: story
-excerpt: "Schedule for this project."
+excerpt: "Story and Scripts."
 search_omit: true
 image:
   feature: p_st_index_feature.png

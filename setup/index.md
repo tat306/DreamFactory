@@ -1,7 +1,7 @@
 ---
 layout: page
 title: setup
-excerpt: "Schedule for this project."
+excerpt: "Setuplist and Equips."
 search_omit: true
 image:
   feature: p_se_index_feature.png
