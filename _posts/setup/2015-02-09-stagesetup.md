@@ -25,7 +25,6 @@ date: 2015-02-09T05:52:18-07:00
 	<figcaption>Two images.</figcaption>
 </figure>
 
-<a href="https://www.flickr.com/photos/129552486@N08/16482854292" title="pos_sample_analogTVpile by Tatsuya Ishii, on Flickr"><img src="https://farm8.staticflickr.com/7395/16482854292_afe1a83291_c.jpg" width="800" height="453" alt="pos_sample_analogTVpile"></a>
 
 <figure>
 	<a href="https://farm8.staticflickr.com/7395/16482854292_afe1a83291_b.jpg"><img src="https://farm8.staticflickr.com/7395/16482854292_afe1a83291_s.jpg" alt="image"></a>
