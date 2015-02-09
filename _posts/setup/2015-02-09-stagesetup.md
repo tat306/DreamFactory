@@ -26,8 +26,8 @@ date: 2015-02-09T05:52:18-07:00
 </figure>
 
 <figure>
-	<a href="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg"><img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg" alt="image"></a>
-	<figcaption><a href="https://www.flickr.com/photos/129552486@N08/16482854292/" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
+	<a href="https://farm8.staticflickr.com/7395/16482854292_afe1a83291_s.jpg"><img src="https://farm8.staticflickr.com/7395/16482854292_afe1a83291_s.jpg" alt="image"></a>
+	<figcaption><a href="https://www.flickr.com/photos/129552486@N08/16482854292/" title="pos_sample_analogTVpile by Tatsuya Ishii, on Flickr">Sample "Pile of AnalogTV"</a>.</figcaption>
 </figure>
 
 
