@@ -30,7 +30,11 @@ date: 2015-02-09T05:52:18-07:00
 	<figcaption><a href="https://www.flickr.com/photos/129552486@N08/16482854292/" title="pos_sample_analogTVpile by Tatsuya Ishii, on Flickr">Sample "Pile of AnalogTV"</a>.</figcaption>
 </figure>
 
+<figure>
+  <a href="https://www.flickr.com/photos/129552486@N08/16482854292" title="pos_sample_analogTVpile by Tatsuya Ishii, on Flickr"><img src="https://farm8.staticflickr.com/7395/16482854292_afe1a83291_b.jpg" width="1024" height="580" alt="pos_sample_analogTVpile"></a>
+</figure>
 
-<a href="https://www.flickr.com/photos/129552486@N08/16482854292" title="pos_sample_analogTVpile by Tatsuya Ishii, on Flickr"><img src="https://farm8.staticflickr.com/7395/16482854292_afe1a83291_s.jpg" width="75" height="75" alt="pos_sample_analogTVpile"></a>
+<iframe src="https://www.flickr.com/photos/129552486@N08/16482854292/player/" width="1024" height="580" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-<iframe src="https://www.flickr.com/photos/129552486@N08/16482854292/player/" width="75" height="75" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+
