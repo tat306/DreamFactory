@@ -11,7 +11,7 @@ date: 2015-02-07T09:24:23-07:00
 ---
 
 
-** **Sonic Content and Idea**
+**Sonic Content and Idea**
 
 * * *
 
