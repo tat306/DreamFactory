@@ -18,12 +18,14 @@ date: 2015-02-09T05:52:18-07:00
 
 
 <figure class="half">
-	<a href="https://farm8.staticflickr.com/7395/16482854292_afe1a83291_b.jpg"><img src="https://farm8.staticflickr.com/7395/16482854292_afe1a83291_b.jpg" alt="image"></a>
-	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg" alt="image"></a>
-	<img src="http://placehold.it/600x300.jpg" alt="image">
-	<img src="http://placehold.it/600x300.jpg" alt="image">
+	<a href="https://farm8.staticflickr.com/7395/16482854292_afe1a83291_c.jpg"><img src="https://farm8.staticflickr.com/7395/16482854292_afe1a83291_c.jpg" alt="image"></a>
+	<a href="https://farm8.staticflickr.com/7395/16482854292_afe1a83291_c.jpg"><img src="https://farm8.staticflickr.com/7395/16482854292_afe1a83291_c.jpg" alt="image"></a>
+	<img src="https://farm8.staticflickr.com/7395/16482854292_afe1a83291_c.jpg" alt="image">
+	<img src="https://farm8.staticflickr.com/7395/16482854292_afe1a83291_c.jpg" alt="image">
 	<figcaption>Two images.</figcaption>
 </figure>
+
+<a href="https://www.flickr.com/photos/129552486@N08/16482854292" title="pos_sample_analogTVpile by Tatsuya Ishii, on Flickr"><img src="https://farm8.staticflickr.com/7395/16482854292_afe1a83291_c.jpg" width="800" height="453" alt="pos_sample_analogTVpile"></a>
 
 <figure>
 	<a href="https://farm8.staticflickr.com/7395/16482854292_afe1a83291_b.jpg"><img src="https://farm8.staticflickr.com/7395/16482854292_afe1a83291_s.jpg" alt="image"></a>
@@ -31,7 +33,7 @@ date: 2015-02-09T05:52:18-07:00
 </figure>
 
 <figure>
-  <a href="https://www.flickr.com/photos/129552486@N08/16482854292" title="pos_sample_analogTVpile by Tatsuya Ishii, on Flickr"><img src="https://farm8.staticflickr.com/7395/16482854292_afe1a83291_b.jpg" width="1024" height="580" alt="pos_sample_analogTVpile"></a>
+    <a href="https://www.flickr.com/photos/129552486@N08/16482854292" title="pos_sample_analogTVpile by Tatsuya Ishii, on Flickr"><img src="https://farm8.staticflickr.com/7395/16482854292_afe1a83291_b.jpg" width="1024" height="580" alt="pos_sample_analogTVpile"></a>
 </figure>
 
 <iframe src="https://www.flickr.com/photos/129552486@N08/16482854292/player/" width="1024" height="580" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
