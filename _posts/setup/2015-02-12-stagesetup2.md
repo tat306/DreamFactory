@@ -32,8 +32,8 @@ date: 2015-02-12T12:21:18-07:00
  * Part 1 on Script.
 
 <figure class="half">
-	<a href="https://farm8.staticflickr.com/7416/16324864388_2f7b9eeb26_b.jpg"><img src="https://farm8.staticflickr.com/7416/16324864388_2f7b9eeb26_b.jpg" alt="MasquerGP1"></a>
-	<figcaption>Gland Plan for Part</figcaption>
+	<a href="https://farm8.staticflickr.com/7331/16324825918_053e25faac_b.jpg"><img src="https://farm8.staticflickr.com/7331/16324825918_053e25faac_b.jpg" alt="MasquerGP1"></a>
+	<figcaption>Gland Plan for Part1</figcaption>
 </figure>
 .
 
@@ -42,7 +42,17 @@ date: 2015-02-12T12:21:18-07:00
  * Part 2 on Script.
 
 <figure class="half">
-	<a href="https://farm8.staticflickr.com/7331/16324825918_053e25faac_b.jpg"><img src="https://farm8.staticflickr.com/7331/16324825918_053e25faac_b.jpg" alt="MasquerGP1"></a>
+	<a href="https://farm8.staticflickr.com/7416/16324864388_2f7b9eeb26_b.jpg"><img src="https://farm8.staticflickr.com/7416/16324864388_2f7b9eeb26_b.jpg" alt="MasquerGP1"></a>
 	<figcaption>Gland Plan for Part2</figcaption>
+</figure>
+.
+
+* * *
+
+ * Part 3 on Script.
+
+<figure class="half">
+	<a href="https://farm8.staticflickr.com/7305/16512615145_7cc5e8c8af_b.jpg"><img src="https://farm8.staticflickr.com/7305/16512615145_7cc5e8c8af_b.jpg" alt="MasquerGP1"></a>
+	<figcaption>Gland Plan for Part3</figcaption>
 </figure>
 .
